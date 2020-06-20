@@ -1,7 +1,2 @@
-
-
-## How to use
-
-Clone this repository or download as zip and upzip into your workspace. Run command 'npm i' (without quotations) this will install all required dependencies.
-
-Then to start up the project run 'npm run start' this will open up a new tab in your browser with the basic boilerplate.
+Simple react app gets city or town weather data from Weather API. 
+Can bee seen here: https://confident-noether-d2c367.netlify.app/
